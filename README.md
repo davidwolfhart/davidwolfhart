@@ -1,3 +1,4 @@
+![David Wolfhart](img/github-header-image.png)
 ## Hello World! My name is David known as Wolfhart. Nice to meet you👋
 
 <!--
