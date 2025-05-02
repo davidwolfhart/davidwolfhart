@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! My name is David known as Wolfhart. Nice to meet you👋
 
 <!--
 **davidwolfhart/davidwolfhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on developing my own website.
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com/) Framework.
